@@ -49,7 +49,7 @@ Futura version muy pronto.
 
 `Siglo 1 (Terminado)`
 `Siglo 2 (Terminado)`
-`Siglo 3 (Terminado)
+`Siglo 3 (Terminado)`
 `Siglo 4 (Terminado)`
 `Siglo 5 (Terminado)`
 `Siglo 6 (En proceso)`
