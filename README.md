@@ -1,16 +1,15 @@
 <p align="center">
   <a href="https://discord.gg/TBwPxtUG5p">
-    <img width="300" src="https://cdn.discordapp.com/attachments/1072172842201919629/1075269004408672346/palpley3.png" alt="palpley.png">
   </a>
 </p>
 
-<h1 align="center">PalPley</h1>
+<h1 align="center">PlayKia</h1>
 
 <div align="center">
 
 **Top.gg**
 
-[![PalPley Server][palpley-server]][palpley-server-url]
+[![PalKia Server][palpley-server]][palpley-server-url]
 
 [palpley-server]: https://img.shields.io/discord/1050492618146062497?color=C0E4FF&label=SERVIDOR&style=for-the-badge
 [palpley-server-url]: https://discord.gg/TBwPxtUG5p
@@ -21,7 +20,7 @@
 ## PalPley Politica || Información
 
 **Privacidad y Seguridad**:
-La seguridad de PalPley Studios Code tiene un sistema avanzado apenas en desarrollo donde la privacidad y seguridad del cliente que utiliza la aplicacion tendra una seguridad total de la aplicacion por lo cual tomamos medidas drasticas para que tengan una seguridad excelente y perfecta en sus cuentas, en caso de un error o un hack que tira la aplicacion avisar en servidor de soporte e mandar captura inmediato para hacer medidas correspondientes.
+La seguridad de PlayKia Studios Code tiene un sistema avanzado apenas en desarrollo donde la privacidad y seguridad del cliente que utiliza la aplicacion tendra una seguridad total de la aplicacion por lo cual tomamos medidas drasticas para que tengan una seguridad excelente y perfecta en sus cuentas, en caso de un error o un hack que tira la aplicacion avisar en servidor de soporte e mandar captura inmediato para hacer medidas correspondientes.
 Nuestras politicas tratan en lo que [Discord](https://discord.com/) quiere en lo cual se lo daremos para su seguridad de ustedes usuarios, la seguridad de su informacion es super delicado en lo cual en los usuarios que quieran hacer un spam o quitar informacion en nuetras instalacioes virtuales seran sometidos con una advertencia para de Discord.
 
 **Database**: 
